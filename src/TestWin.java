@@ -13,6 +13,6 @@
  */
 public class TestWin {
     public static void main(String[] args) {
-        System.out.print("success");
+        System.out.print("success1");
     }
 }
